@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 10;
+}
+.container{
+    background-color:black;
+    width: 100vw;
+    height: 200vh;
+    text-align: center;
+}
+.div-1{
+    background-color: green;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.div-1 img{
+    height: 50vh;
+    width: 100vw;
+}
+.div-2{
+    background-color: lawngreen;
+    width: 100vw;
+    height: 50vh;
+    text-align: center;
+}
+.div-2 img{
+    height:25vh;
+    width:20vw;
+
+}
+.div-3{
+    background-color: palevioletred;
+    width: 100vw;
+    height: 50vh;
+    text-align: center;
+}
+.div-4{
+    background-color: orange;
+    width: 100vw;
+    height: 50vh;
+    text-align: center;
+}
+.div-1 P{
+    position: absolute;
+    font-size: 5em;
+}
+body{
+    font-family:cursive;
